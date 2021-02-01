@@ -1,26 +1,28 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pengpeng Hu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc Reseracher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Vrije Universiteit Brussel
+  url: http://www.etrovub.be/ETRO_Team/pub_personal.asp?PM_ID=6068
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep learning on point clouds
+- 3D shape reconstruction
+- 3D human body scanning
+- 3D garment 
+- Digital fabrication
 
 # Education to show in About widget
 education:
