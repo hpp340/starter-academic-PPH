@@ -35,17 +35,4 @@ experience:
 #        * Modelling
 #        * Deploying
         
-  - title: Postdoc Researcher
-    company: Northumbria University
-    company_url: ''
-    location: Newcastle, UK
-    date_start: '2017-08'
-    date_end: '2018-07'
-    #description: Taught electronic engineering and researched semiconductor physics.
- - title: Visiting Scholar
-    company: Edinburgh University
-    company_url: ''
-    location: Edinburgh, UK
-    date_start: '2015-12'
-    date_end: '2016-11'  
----
+
