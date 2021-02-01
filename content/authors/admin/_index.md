@@ -59,13 +59,18 @@ social:
   icon_pack: fab
   link: https://www.facebook.com/profile.php?id=100010938427739
 
-
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "phu@etrovub.be"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
