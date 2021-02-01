@@ -52,6 +52,9 @@ social:
 #- icon: github
 #  icon_pack: fab
 # link: https://github.com/gcushen
+- icon: google scholar
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=7zhyEqsAAAAJ&hl=zh-CN
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/pengpeng-hu-02b071121/
